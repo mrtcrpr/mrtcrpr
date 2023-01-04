@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Murat Çarpar
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me https://www.linkedin.com/in/murat-%C3%A7arpar-5257a3217/
+- 📫 How to reach me https://www.linkedin.com/in/mrtcrpr/
