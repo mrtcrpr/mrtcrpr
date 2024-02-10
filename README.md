@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtcrpr&show_icons=true&locale=en" alt="mrtcrpr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtcrpr&" alt="mrtcrpr" /></p>
+
+
+![snake gif](https://github.com/mrtcrpr/mrtcrpr/blob/output/github-contribution-grid-snake.gif)
