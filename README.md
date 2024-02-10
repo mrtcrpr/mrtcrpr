@@ -1,4 +1,4 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif)
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif)
 <h1 align="center">Hi 👋, I'm Murat Çarpar</h1>
 <h3 align="center">A passionate full stack developer from Türkiye</h3>
 
